@@ -1,0 +1,2 @@
+LAB 6 LOGBOOK - <Keshav Gupta> - <E26B07F0722>
+SETUP: my working directory is ~/nst
